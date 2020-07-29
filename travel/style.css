@@ -29,6 +29,11 @@ color: #fff;
 	color: #fff;
 	outline: none;
 }
+
+.login-btn:hover{
+	background-color: black;
+}
+
 .header h1{
 	padding-top: 250px;
 	padding-bottom: 0;
@@ -251,10 +256,6 @@ margin-top: 20px;
 		padding-left: 200px;
 		font-size: 15px;
 	} */
-
-.btn-log:hover{
-	background-color: black;
-}
 
 /* style for img inside feature section */
 
